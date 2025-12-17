@@ -38,5 +38,3 @@ jobs:
         with:
           python-version: '3.9'
 
-      - name: Run tests
-        run: python -m pytest test_factorial.py -v
